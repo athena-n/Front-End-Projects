@@ -90,13 +90,6 @@ You can refer to the following articles on **_basics of Git and Github and also 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-of-tushar.netlify.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar104)
 
-
-<h2 align=center>⭐Stars Chart</h2>  
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/TusharKesarwani/Front-End-Projects.svg)](https://starchart.cc/TusharKesarwani/Front-End-Projects)
-
 <h2 align=center>Project Admin</h2> 
 <table align="center">
 	<tr >
